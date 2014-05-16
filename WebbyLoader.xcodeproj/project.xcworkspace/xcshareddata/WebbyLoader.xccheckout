@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>481B294B-2CC9-497F-932D-C146244F984E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WebbyLoader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1504E0AF-538E-4A46-A9EA-0AB1BF17105E</key>
+		<string>https://github.com/initWit/WebbyLoader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WebbyLoader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1504E0AF-538E-4A46-A9EA-0AB1BF17105E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/initWit/WebbyLoader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1504E0AF-538E-4A46-A9EA-0AB1BF17105E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1504E0AF-538E-4A46-A9EA-0AB1BF17105E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WebbyLoader</string>
+		</dict>
+	</array>
+</dict>
+</plist>
